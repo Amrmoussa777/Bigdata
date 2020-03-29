@@ -5,7 +5,8 @@ def main():
     mo()
 
 def mo():
-     print("mody")
+     print("mody seconf versiom')
+
 
 
 
