@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 import sys
 print('dkjmoftt')
 print('mofdaonf master branch')
-=======
+
 def main():
     mo()
 def mo():
@@ -10,4 +10,4 @@ def mo():
 
 if __name__=='__main__':
     main()
->>>>>>> byfiles
+
