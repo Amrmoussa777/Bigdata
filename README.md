@@ -1,1 +1,4 @@
+NEW THINGS UPDATED 
+MERGINF STUFF 
+BRANCHING STUFF
 New cahnges commig along the way 
